@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository has moved to **[git.6b6t.org/6b6t/ConfigLib](https://git.6b6t.org/6b6t/ConfigLib)**. This GitHub copy is archived and no longer updated.
+
 # ConfigLib
 
 **A Minecraft library for saving, loading, updating, and commenting YAML
